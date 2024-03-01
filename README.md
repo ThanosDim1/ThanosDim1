@@ -18,3 +18,8 @@
  <a href="https://discordapp.com/users/336465076762574855" target="_blank"><img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" height="30" width="40" /></a>
 <br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AndreasLampos&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AndreasLampos&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasLampos&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
