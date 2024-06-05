@@ -18,9 +18,9 @@
  <a href="https://discordapp.com/users/336465076762574855" target="_blank"><img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" height="30" width="40" /></a>
 <br>
 
-<h2 align="center"> # 📊 GitHub Stats: </h2>
+<h2 align="center"> 📊 GitHub Stats: </h2>
 
-![](https://github-readme-stats.vercel.app/api?username=AndreasLampos&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndreasLampos&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasLampos&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ThanosDim1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ThanosDim1&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanosDim1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
