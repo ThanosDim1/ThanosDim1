@@ -2,7 +2,7 @@
 <h3 align="center">Thanos - 19 Y/O - Greece</h3>
 <h3 align="center">Undergraduate - Computer Science @ AUEB</h3>
 <h3 align="center">Currently at my 5th semester </h3>
-<h3 align="center"><a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a> <a href="https://www.dept.aueb.gr/en/cs"><img alt="Athens University of Economics and Business - Computer Science" src="https://img.shields.io/badge/AUEB-computer--science-bd173d"></a></h3>
+<h3 align="center"><a href="https://www.dept.aueb.gr/en/cs"><img alt="Athens University of Economics and Business - Computer Science" src="https://img.shields.io/badge/AUEB-computer--science-bd173d"></a></h3>
 <br>
 
 <h4 align="center">
