@@ -1,6 +1,6 @@
 <h1 align="center"> 👨‍💻About Me👨‍💻 </h1>
 <h3 align="center">Thanos - 20 Y/O - Greece</h3>
-<h3 align="center">Undergraduate - Computer Science @ AUEB</h3>
+<h3 align="center">Erasmus+ Exchange Student @ SU | Undergraduate - Computer Science @ AUEB</h3>
 <h3 align="center">Currently at my 6th semester </h3>
 <h3 align="center"><a href="https://www.dept.aueb.gr/en/cs"><img alt="Athens University of Economics and Business - Computer Science" src="https://img.shields.io/badge/AUEB-computer--science-bd173d"></a></h3>
 <br>
